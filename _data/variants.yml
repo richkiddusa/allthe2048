@@ -525,3 +525,7 @@
 - url: http://mblan.github.io/joc2048/
   name: JOC Wines Edition
   author: m blan
+
+- url: https://github.com/yasuhito/text2048
+  name: text2048 (ruby gem)
+  author: Yasuhito Takamiya
