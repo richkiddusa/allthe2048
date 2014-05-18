@@ -541,3 +541,16 @@
 - url: http://games.usvsth3m.com/2048/the-weasleys--edition/
   name: The Weasley Family Edition
   author: Izzy T.
+
+- url: http://lukeweil.github.io/2048-silicon-valley/
+  name: 2048 Silicon Valley Edition
+  author: Luke Weil
+
+- url: http://lukeweil.github.io/game-of-thrones-2048/
+  name: 2048 Game of Thrones Edition
+  author: Luke Weil
+
+- url: http://lukeweil.github.io/2048-veep/
+  name: 2048 Veep Edition
+  author: Luke Weil
+
