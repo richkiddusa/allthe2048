@@ -402,7 +402,7 @@
   name: Japanese version
   author: Superfoo
 
-- url: http://games.usvsth3m.com/2048/1-edition-2637/ 
+- url: http://games.usvsth3m.com/2048/1-edition-2637/
   name: 1
   author: Superfoo
 
@@ -420,7 +420,7 @@
 
 - url: http://games.usvsth3m.com/2048/minecraft-edition-1125/
   name: Minecraft 2048
-  author: total2048 
+  author: total2048
 
 - url: http://p6v.6j.sl.pt/
   name: Undress 2048 (NSFW)
@@ -541,3 +541,11 @@
 - url: http://games.usvsth3m.com/2048/the-weasleys--edition/
   name: The Weasley Family Edition
   author: Izzy T.
+
+- url: http://enah.github.io/hell/
+  name: Hell
+  author: Ena H.
+
+- url: http://enah.github.io/stochastic-2048/
+  name: Stochastic 2048
+  author: Ena H.
