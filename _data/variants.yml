@@ -541,3 +541,7 @@
 - url: http://games.usvsth3m.com/2048/the-weasleys--edition/
   name: The Weasley Family Edition
   author: Izzy T.
+
+- url: https://github.com/yasuhito/text2048
+  name: text2048 (ruby gem)
+  author: Yasuhito Takamiya
