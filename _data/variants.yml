@@ -545,3 +545,15 @@
 - url: https://github.com/yasuhito/text2048
   name: text2048 (ruby gem)
   author: Yasuhito Takamiya
+
+- url: http://lukeweil.github.io/2048-silicon-valley/
+  name: 2048 Silicon Valley Edition
+  author: Luke Weil
+
+- url: http://lukeweil.github.io/game-of-thrones-2048/
+  name: 2048 Game of Thrones Edition
+  author: Luke Weil
+
+- url: http://lukeweil.github.io/2048-veep/
+  name: 2048 Veep Edition
+  author: Luke Weil
