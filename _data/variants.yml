@@ -593,3 +593,7 @@
 - url: http://silviu.ml/trips
   name: Trips
   author: Silviu-Mădălin Lorenţ
+  
+- url: http://mm2718.github.io/2048-linux/
+  name: 2048 Linux edition
+  author: Matt Mitchell
