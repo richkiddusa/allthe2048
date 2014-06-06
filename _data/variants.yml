@@ -605,3 +605,7 @@
 - url: http://www.spreadsheet1.com/2048-game-version-for-excel.html
   name: 2048 Excel Style (Excel VBA game)
   author: Spreadsheet1.com
+
+- url: http://facelesstheone.github.io/ride2048/
+  name: Ride2048
+  author: Stanislav Komarovsky
