@@ -609,3 +609,7 @@
 - url: http://facelesstheone.github.io/ride2048/
   name: Ride2048
   author: Stanislav Komarovsky
+
+- url: http://pyongpyong.com/hangul2048/
+  name: Hangul 2048
+  author: Sangpyo Hong
